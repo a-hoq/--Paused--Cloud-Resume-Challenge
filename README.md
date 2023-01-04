@@ -24,3 +24,5 @@ Thankfully the first chunk is not that difficult. For the following chunks, I ho
 
 ### 3
 Firstly, I forgot to mention in the last update that I am skipping certification prep for now. I will be doing that later/last. Currently, I am going to have a quick attempt at challenge chunk 1 before putting this challenge on hold. My intention now is to quickly learn JavaScript, TypeScript, and Angular for frontend web development experience that I desperately need.
+
+### **ON HOLD**
